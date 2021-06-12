@@ -30,7 +30,7 @@ The Budget Tracker uses Mongo database with a Mongoose schema to handle routes w
 * Mongoose
 
 ## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/Ofarrell23/Online-Offline-Budget-Trackers/issues or contact me via email at keyabug@gmail.com. You can find more of my work on my GitHub, [Ofarrell23](https://github.com/Ofarrell23/).
+If you have any questions about the repo, please [open an issue](https://github.com/Ofarrell23/Budget-Tracker-Redo/issues or contact me via email at keyabug@gmail.com. You can find more of my work on my GitHub, [Ofarrell23](https://github.com/Ofarrell23/).
     
 ## Credits
 Below is a list of third-party tutorials used to help facilitate this project. There were no collaborators for this project.
